@@ -2,7 +2,7 @@
   "name": "koa-login",
   "version": "0.0.6",
   "description": "Koa login API using JWT",
-  "main": "lib/koa-login.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marc1404/koa-login.git"
